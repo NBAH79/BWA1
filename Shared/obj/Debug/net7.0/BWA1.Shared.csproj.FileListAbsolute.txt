@@ -1,0 +1,11 @@
+X:\BWA1\Shared\bin\Debug\net7.0\BWA1.Shared.deps.json
+X:\BWA1\Shared\bin\Debug\net7.0\BWA1.Shared.dll
+X:\BWA1\Shared\bin\Debug\net7.0\BWA1.Shared.pdb
+X:\BWA1\Shared\obj\Debug\net7.0\BWA1.Shared.GeneratedMSBuildEditorConfig.editorconfig
+X:\BWA1\Shared\obj\Debug\net7.0\BWA1.Shared.AssemblyInfoInputs.cache
+X:\BWA1\Shared\obj\Debug\net7.0\BWA1.Shared.AssemblyInfo.cs
+X:\BWA1\Shared\obj\Debug\net7.0\BWA1.Shared.csproj.CoreCompileInputs.cache
+X:\BWA1\Shared\obj\Debug\net7.0\BWA1.Shared.dll
+X:\BWA1\Shared\obj\Debug\net7.0\refint\BWA1.Shared.dll
+X:\BWA1\Shared\obj\Debug\net7.0\BWA1.Shared.pdb
+X:\BWA1\Shared\obj\Debug\net7.0\ref\BWA1.Shared.dll

@@ -1,0 +1,16 @@
+services:
+  bwa1.server:
+    image: ${DOCKER_REGISTRY-}bwa1server
+    build:
+      context: .
+      dockerfile: Server/Dockerfile
+    ports:
+      - "80:80"
+      - "443:443"
+      - "8080:8080"
+    networks:
+      - bwa1
+
+networks:
+  bwa1:
+    driver: bridge

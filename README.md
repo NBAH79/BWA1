@@ -1,2 +1,2 @@
-Empty solution Blazor Webassembly in docker container uses dotnet8.0
+Empty solution for Blazor Webassembly in Docker container uses dotnet8.0
 http://localhost:8080
